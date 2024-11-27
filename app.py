@@ -11,10 +11,10 @@ from branca.colormap import linear
 # ----- Fuentes de datos -----
 
 # URL del archivo de datos. 
-URL_DATOS_CENTROS = 'datos/datos_completos.csv'
+URL_DATOS_CENTROS = 'datos_completos.csv'
 
 # URL del archivo de cantones. 
-URL_DATOS_CANTONES = 'datos/cantones_centros_salud.gpkg'
+URL_DATOS_CANTONES = 'cantones_centros_salud.gpkg'
 
 
 # Función para cargar los datos y almacenarlos en caché 
