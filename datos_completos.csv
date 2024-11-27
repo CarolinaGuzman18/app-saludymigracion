@@ -1,0 +1,545 @@
+osm_id,amenity,healthcare,name,operator,CÓDIGO_DT,PROVINCIA,CANTÓN,DISTRITO,CÓDIGO_PR,CÓDIGO_CA,LEGISLACI?,OFICIALIZA,ÁREA,REGIÓN,VERSIÓN,ruta
+"1586347454",pharmacy,pharmacy,Farmacia Loma Real,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"1619141411",pharmacy,pharmacy,Farmacia Boca Arenal,Privado,21011,Alajuela,San Carlos,Cutris,2,210,Decreto  2083-G,1971-11-26T00:00:00,849.100791729999969,Huetar Norte,20240502001,1
+"1644348057",pharmacy,pharmacy,Veterinaria El Yugo,Privado,20111,Alajuela,Alajuela,Turrúcares,2,201,Decreto  167,1848-12-07T00:00:00,35.892595350000001,Central,20240502001,1
+"1735931124",doctors,doctor,Ebais Central Norte,CCSS,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"1832525599",pharmacy,pharmacy,Farmacia San Miguel,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"1832571500",doctors,doctor,Doctora Fernanda,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"1833709968",doctors,doctor,Centro Medico Desamparados,Privado,10312,San José,Desamparados,Gravilias,1,103,Decreto  21572-G,1992-11-23T00:00:00,2.938596620000000,Central,20240502001,1
+"1833709990",pharmacy,pharmacy,Farmacia Diermissen,Privado,10312,San José,Desamparados,Gravilias,1,103,Decreto  21572-G,1992-11-23T00:00:00,2.938596620000000,Central,20240502001,1
+"1833710014",doctors,doctor,Laboratorio Clinico Dr. Morales,Privado,10301,San José,Desamparados,Desamparados,1,103,Decreto  20,1915-10-18T00:00:00,3.319491820000000,Central,20240502001,1
+"1833709973",hospital,doctor,Clínica Hospital Santa Catalina,Privado,10301,San José,Desamparados,Desamparados,1,103,Decreto  20,1915-10-18T00:00:00,3.319491820000000,Central,20240502001,1
+"1833709969",doctors,doctor,Centro de Especialidades Médicas y Odontológicas,Privado,10312,San José,Desamparados,Gravilias,1,103,Decreto  21572-G,1992-11-23T00:00:00,2.938596620000000,Central,20240502001,1
+"1833710181",doctors,doctor,"Rayos X, Imagenes Medicas",Privado,10301,San José,Desamparados,Desamparados,1,103,Decreto  20,1915-10-18T00:00:00,3.319491820000000,Central,20240502001,1
+"1916636169",pharmacy,pharmacy,Farmacia Fischel,Privado,10101,San José,San José,Carmen,1,101,Decreto  167,1848-12-07T00:00:00,1.494764670000000,Central,20240502001,1
+"1990163665",pharmacy,pharmacy,Farmacia Perpetuo Socorro,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"1996609943",pharmacy,pharmacy,Farmacia Antales,Privado,20102,Alajuela,Alajuela,San José,2,201,Decreto  167,1848-12-07T00:00:00,14.872540130000001,Central,20240502001,1
+"2074810182",pharmacy,pharmacy,Farmacia Central,Privado,20501,Alajuela,Atenas,Atenas,2,205,Decreto  30,1868-08-07T00:00:00,9.761430910000000,Central,20240502001,1
+"2266475673",pharmacy,pharmacy,Farmacia Fischel,Privado,10109,San José,San José,Pavas,1,101,Decreto  167,1848-12-07T00:00:00,9.349160670000000,Central,20240502001,1
+"2266481046",pharmacy,pharmacy,Farmacia Chavarría Pavas,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"2266501011",pharmacy,pharmacy,Farmacia Chavarría Escazú,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"2266510442",pharmacy,pharmacy,Farmacia Chavarría Lindora,Privado,10903,San José,Santa Ana,Pozos,1,109,Ley 08,1907-08-29T00:00:00,13.349906550000000,Central,20240502001,1
+"2266502567",pharmacy,pharmacy,Farmacia Fischel,Privado,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"2266513268",pharmacy,pharmacy,Farmacia Fischel Guápiles,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"2266516090",pharmacy,pharmacy,Farmacia Chavarría Plaza América,Privado,10110,San José,San José,Hatillo,1,101,Decreto  167,1848-12-07T00:00:00,4.368078910000002,Central,20240502001,1
+"2266520672",pharmacy,pharmacy,Farmacia Chavarría Centro Comercial Terrazas,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"2266523415",pharmacy,pharmacy,Farmacia Fischel Lagunilla,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"2266526678",pharmacy,pharmacy,Farmacia Chavarría San José Centro,Privado,10101,San José,San José,Carmen,1,101,Decreto  167,1848-12-07T00:00:00,1.494764670000000,Central,20240502001,1
+"2266528382",pharmacy,pharmacy,Farmacia Chavarría,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"2266535220",pharmacy,pharmacy,Farmacia Fischel Paseo de las Flores,Privado,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"2266541615",pharmacy,pharmacy,Farmacia Fischel Automercado Heredia,Privado,40502,Heredia,San Rafael,San Josecito,4,405,Decreto  10,1885-05-28T00:00:00,1.347490050000000,Central,20240502001,1
+"2266555933",pharmacy,pharmacy,Farmacia Fischel,Privado,20102,Alajuela,Alajuela,San José,2,201,Decreto  167,1848-12-07T00:00:00,14.872540130000001,Central,20240502001,1
+"2266560342",pharmacy,pharmacy,Farmacia Chavarría,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"2266558449",pharmacy,pharmacy,Farmacia Fischel Los Ángeles,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"2266578666",pharmacy,pharmacy,Farmacia Fischel,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"2267495349",pharmacy,pharmacy,Farmacia Chavarria Heredia Centro,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"2267524100",pharmacy,pharmacy,Farmacia Chavarría,Privado,40102,Heredia,Heredia,Mercedes,4,401,Decreto  167,1848-12-07T00:00:00,4.149578250000000,Central,20240502001,1
+"2339147206",doctors,doctor,Clínica Dr. Lostalo,Privado,60108,Puntarenas,Puntarenas,Barranca,6,601,Ley 3549,1965-11-20T00:00:00,36.205768329999998,Pacífico Central,20240502001,1
+"2341675021",doctors,doctor,Centro Medico del Sur,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"2341675022",doctors,doctor,Clínica Alfaro,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"2341675023",dentist,dentist,Clínica Dental Dibal,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"2341675019",dentist,dentist,Centro Medico Santa Monica,Privado,40701,Heredia,Belén,San Antonio,4,407,Ley 15,1907-06-08T00:00:00,3.556303670000000,Central,20240502001,1
+"2341675020",doctors,doctor,Centro Medico de Radioterapia Irazu,Privado,10107,San José,San José,Uruca,1,101,Decreto  167,1848-12-07T00:00:00,8.394567220000004,Central,20240502001,1
+"2341675025",hospital,doctor,Clínica Dental Dra. Vanessa Morales,Privado,11501,San José,Montes de Oca,San Pedro,1,115,Ley 45,1915-08-02T00:00:00,4.741148040000000,Central,20240502001,1
+"2341675026",dentist,dentist,Clínica Dental Gazel,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"2341675029",doctors,doctor,Clínica Los Yoses,Privado,10101,San José,San José,Carmen,1,101,Decreto  167,1848-12-07T00:00:00,1.494764670000000,Central,20240502001,1
+"2341675040",doctor,doctor,Clínica Zahha,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"2341675033",doctors,doctor,Clínica Odomed,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"2341675048",doctors,doctor,Dra. Geovanna Valldeperas,Privado,11501,San José,Montes de Oca,San Pedro,1,115,Ley 45,1915-08-02T00:00:00,4.741148040000000,Central,20240502001,1
+"2341675047",doctors,doctor,Dr. Henson Leung W,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"2341675043",dentist,dentist,Clínica de Ortodoncia Doctores Truque,Privado,11501,San José,Montes de Oca,San Pedro,1,115,Ley 45,1915-08-02T00:00:00,4.741148040000000,Central,20240502001,1
+"2341675046",doctors,doctor,Consultorio Medico San Gerardo,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"2358277534",dentist,dentist,Dr. Andrés Lopez,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"2526083841",pharmacy,pharmacy,Farmacia,Privado,21304,Alajuela,Upala,Bijagua,2,213,Decreto  28,1970-05-04T00:00:00,186.804768419999988,Huetar Norte,20240502001,1
+"2531685374",pharmacy,pharmacy,Farmacia Zamora,Privado,10601,San José,Aserrí,Aserrí,1,106,Decreto  3,1882-11-27T00:00:00,15.259398819999999,Central,20240502001,1
+"2539343551",clinic,clinic,Ebais Bijagua,CCSS,21304,Alajuela,Upala,Bijagua,2,213,Decreto  28,1970-05-04T00:00:00,186.804768419999988,Huetar Norte,20240502001,1
+"2585474454",pharmacy,pharmacy,Farmacia Quiribri-Cahuita,Privado,70403,Limón,Talamanca,Cahuita,7,704,Decreto  13,1970-02-19T00:00:00,234.065113679999996,Huetar Caribe,20240502001,1
+"2709643945",clinic,clinic,Ebais Santa Eulalia,CCSS,20507,Alajuela,Atenas,Santa Eulalia,2,205,Decreto  30,1868-08-07T00:00:00,14.559413060000001,Central,20240502001,1
+"2769486091",pharmacy,pharmacy,Fischel,Privado,10903,San José,Santa Ana,Pozos,1,109,Ley 08,1907-08-29T00:00:00,13.349906550000000,Central,20240502001,1
+"3103758294",pharmacy,pharmacy,Farmacia La Catolica,Privado,10803,San José,Goicoechea,Calle Blancos,1,108,Decreto  66,1891-08-06T00:00:00,2.356606490000000,Central,20240502001,1
+"3286388574",clinic,clinic,Consultorio Médico Dr.Armando Carvajal.,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3297936053",clinic,clinic,Ebais San Miguel,CCSS,60108,Puntarenas,Puntarenas,Barranca,6,601,Ley 3549,1965-11-20T00:00:00,36.205768329999998,Pacífico Central,20240502001,1
+"3297982225",pharmacy,pharmacy,La Bomba,Privado,10305,San José,Desamparados,San Antonio,1,103,Decreto  22,1862-11-04T00:00:00,2.066191140000000,Central,20240502001,1
+"3353182575",pharmacy,pharmacy,Farmacia Fishel,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"3480840871",pharmacy,pharmacy,Farmacia La Bomba,Privado,10106,San José,San José,San Francisco de Dos Ríos,1,101,Decreto  167,1848-12-07T00:00:00,2.642008390000000,Central,20240502001,1
+"3501739893",pharmacy,pharmacy,Farmacia Fischel,Privado,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"3501809820",dentist,dentist,Clínica Dental Dra. Loria,Privado,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"3507858989",hospital,doctor,Centro Médico Torre Fuerte,Privado,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"3625412689",dentist,dentist,Biodental Esthetics,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"3644721342",pharmacy,pharmacy,Macrobiotica Vida Natural,Privado,20501,Alajuela,Atenas,Atenas,2,205,Decreto  30,1868-08-07T00:00:00,9.761430910000000,Central,20240502001,1
+"3734654759",pharmacy,,Farmacia La Pista,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"3740432973",clinic,clinic,Ebais San Isidro,CCSS,20504,Alajuela,Atenas,San Isidro,2,205,Decreto  30,1868-08-07T00:00:00,14.389421150000000,Central,20240502001,1
+"3740491357",pharmacy,pharmacy,Farmacia San Gabriel,Privado,20505,Alajuela,Atenas,Concepción,2,205,Decreto  30,1868-08-07T00:00:00,21.908228900000001,Central,20240502001,1
+"3740614036",dentist,dentist,Consultorio Dental Dra. Carol Morera,Privado,20502,Alajuela,Atenas,Jesús,2,205,Decreto  30,1868-08-07T00:00:00,18.105533749999999,Central,20240502001,1
+"3813321889",pharmacy,pharmacy,Macrobiotica Mi Salud,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3813907007",clinic,clinic,San Miguel,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3816211843",pharmacy,pharmacy,Farmacias Centro,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"3818084388",clinic,clinic,Clínica Norza,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3819630375",dentist,dentist,Clínica Odent,Privado,11501,San José,Montes de Oca,San Pedro,1,115,Ley 45,1915-08-02T00:00:00,4.741148040000000,Central,20240502001,1
+"3819735364",pharmacy,pharmacy,Charpentier,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3828831406",clinic,clinic,Clínica Especialistas,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3829992659",pharmacy,pharmacy,Fishel,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"3830025975",clinic,clinic,Consultorio Medico,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"3831505598",clinic,clinic,Centro Medico Tibás,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"3831651253",pharmacy,pharmacy,Farmacia El Puente,Privado,11303,San José,Tibás,Anselmo Llorente,1,113,Decreto  01,1953-01-08T00:00:00,1.369752900000000,Central,20240502001,1
+"3831686563",pharmacy,pharmacy,Doctor & Doctor Pharmacy,Privado,11303,San José,Tibás,Anselmo Llorente,1,113,Decreto  01,1953-01-08T00:00:00,1.369752900000000,Central,20240502001,1
+"3835146872",pharmacy,pharmacy,Farmacia Value,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3835905195",pharmacy,pharmacy,Farmacia Carrizal,Privado,60112,Puntarenas,Puntarenas,Chacarita,6,601,Ley 7422,1994-07-18T00:00:00,4.917521980000000,Pacífico Central,20240502001,1
+"3836211558",pharmacy,pharmacy,Farmacia La Bomba,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3841533813",pharmacy,pharmacy,Farmacia Sucre,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3841898894",dentist,dentist,Cosmetic Dentistry,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3843018428",pharmacy,pharmacy,Pharmacy Market,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"3892595051",clinic,clinic,Ebais,CCSS,21009,Alajuela,San Carlos,La Palmera,2,210,Decreto  15,1952-02-05T00:00:00,100.360615069999994,Huetar Norte,20240502001,1
+"3915395092",dentist,dentist,Clínica Dental,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"3917276717",dentist,dentist,Clínica Dental,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"3917537798",pharmacy,pharmacy,Farmacia Avenida Diez,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"3919012779",doctor,physiotherapist,Consultorio de Terapia Física,Privado,10803,San José,Goicoechea,Calle Blancos,1,108,Decreto  66,1891-08-06T00:00:00,2.356606490000000,Central,20240502001,1
+"3919012777",dentist,dentist,Nissi,Privado,10803,San José,Goicoechea,Calle Blancos,1,108,Decreto  66,1891-08-06T00:00:00,2.356606490000000,Central,20240502001,1
+"3919012778",dentist,dentist,Sols Dental,Privado,10803,San José,Goicoechea,Calle Blancos,1,108,Decreto  66,1891-08-06T00:00:00,2.356606490000000,Central,20240502001,1
+"3919299332",clinic,clinic,Centro Radiografico del Norte,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"3919397609",pharmacy,pharmacy,Farmacia Sucre,Privado,40301,Heredia,Santo Domingo,Santo Domingo,4,403,Decreto  54,1869-09-28T00:00:00,0.779554510000000,Central,20240502001,1
+"3919423887",pharmacy,pharmacy,Farmacia Victoria,Privado,40301,Heredia,Santo Domingo,Santo Domingo,4,403,Decreto  54,1869-09-28T00:00:00,0.779554510000000,Central,20240502001,1
+"3929431859",clinic,clinic,Laboratorio Clinico Santa Ana,Privado,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"3929634486",dentist,dentist,Especialidades Dentales Lindora,Privado,10903,San José,Santa Ana,Pozos,1,109,Ley 08,1907-08-29T00:00:00,13.349906550000000,Central,20240502001,1
+"3930869010",pharmacy,pharmacy,Farmacia Zhen,Privado,10311,San José,Desamparados,San Rafael Abajo,1,103,Decreto  34,1968-10-11T00:00:00,2.020944880000000,Central,20240502001,1
+"3930869011",clinic,clinic,Clínica Zhen,Privado,10311,San José,Desamparados,San Rafael Abajo,1,103,Decreto  34,1968-10-11T00:00:00,2.020944880000000,Central,20240502001,1
+"3931069784",dentist,dentist,Clínica Dental,Privado,11001,San José,Alajuelita,Alajuelita,1,110,Decreto 58,1909-06-04T00:00:00,1.274900360000000,Central,20240502001,1
+"3931069793",clinic,clinic,Laboratorio Clinico Sebi,Privado,11001,San José,Alajuelita,Alajuelita,1,110,Decreto 58,1909-06-04T00:00:00,1.274900360000000,Central,20240502001,1
+"3931147713",dentist,dentist,Clínica Dental San Felipe,Privado,11005,San José,Alajuelita,San Felipe,1,110,Decreto 58,1909-06-04T00:00:00,5.130987560000000,Central,20240502001,1
+"3931232222",clinic,clinic,Salud Clínica Sin Fronteras,Privado,11005,San José,Alajuelita,San Felipe,1,110,Decreto 58,1909-06-04T00:00:00,5.130987560000000,Central,20240502001,1
+"3931244048",clinic,clinic,Laboratorios Labin,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"3931244049",dentist,dentist,Clidental,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"3931292213",clinic,clinic,Clinca Escazu,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"3932815979",dentist,dentist,Clínica Dental,Privado,10301,San José,Desamparados,Desamparados,1,103,Decreto  20,1915-10-18T00:00:00,3.319491820000000,Central,20240502001,1
+"3932988408",clinic,clinic,Centro Médico Gravilias,Privado,10312,San José,Desamparados,Gravilias,1,103,Decreto  21572-G,1992-11-23T00:00:00,2.938596620000000,Central,20240502001,1
+"3933090369",dentist,dentist,Clínica Dental,Privado,10301,San José,Desamparados,Desamparados,1,103,Decreto  20,1915-10-18T00:00:00,3.319491820000000,Central,20240502001,1
+"3933100209",pharmacy,pharmacy,Farmacia Don Gerardo,Privado,50601,Guanacaste,Cañas,Cañas,5,506,Decreto 22,1878-07-12T00:00:00,193.093400470000006,Chorotega,20240502001,1
+"3940728463",dentist,dentist,Clínica Dental,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"3940728460",clinic,clinic,Synapsis Medical,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"3940728462",pharmacy,pharmacy,Farmacia San Martin,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"3942289878",pharmacy,pharmacy,Farmacia la Plaza,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"3942395168",clinic,clinic,Dictamen Médico,Privado,10107,San José,San José,Uruca,1,101,Decreto  167,1848-12-07T00:00:00,8.394567220000004,Central,20240502001,1
+"3944361261",doctors,doctor,Dr. Pie,Privado,10903,San José,Santa Ana,Pozos,1,109,Ley 08,1907-08-29T00:00:00,13.349906550000000,Central,20240502001,1
+"3944449060",dentist,dentist,Clínica Dental,Privado,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"3944628158",pharmacy,pharmacy,Farmacia Madalu,Privado,10903,San José,Santa Ana,Pozos,1,109,Ley 08,1907-08-29T00:00:00,13.349906550000000,Central,20240502001,1
+"3944686709",pharmacy,pharmacy,Farmacia La Economía,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"3946251769",dentist,dentist,clínica dental doctor jorge Ruiz,Privado,10305,San José,Desamparados,San Antonio,1,103,Decreto  22,1862-11-04T00:00:00,2.066191140000000,Central,20240502001,1
+"3946452673",pharmacy,pharmacy,Farmax,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"3946452701",clinic,clinic,Clínica,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"3946535905",pharmacy,pharmacy,Farmacia Santa Cristo,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3946742883",pharmacy,pharmacy,Farmacia Sucre,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3946882249",pharmacy,pharmacy,Farmacia,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3946883077",doctors,doctor,Cardiológico,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3946883079",doctors,doctor,Clínica Dr. Mora Aguilar,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3948278441",clinic,clinic,Ebais La Palma,CCSS,50704,Guanacaste,Abangares,Colorado,5,507,Ley 13,1915-06-04T00:00:00,197.835526299999998,Chorotega,20240502001,1
+"3948439592",dentist,dentist,Clínica de Ortodoncía Dr. José M. Prada,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3948555295",pharmacy,pharmacy,Farmasia San Martin,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"3948658211",pharmacy,pharmacy,Farmacia Santa Marta,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"3948658220",pharmacy,pharmacy,Farmacia Calle Central,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"3948929368",clinic,clinic,Anti Aging and Wellness Clinic,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"3948954240",clinic,clinic,Laboratorio Clinico Echandi,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"3949020317",pharmacy,pharmacy,Farmacia,Privado,70301,Limón,Siquirres,Siquirres,7,703,Ley 11,1911-09-19T00:00:00,184.207950869999991,Huetar Caribe,20240502001,1
+"3949071722",dentist,dentist,Clínica Dental,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"3954279893",pharmacy,pharmacy,Farmacia Nazaret,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"3954279881",pharmacy,pharmacy,Farmacia La Bomba,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"3957033837",pharmacy,pharmacy,Farmacia El Cruce,Privado,20109,Alajuela,Alajuela,Río Segundo,2,201,Decreto  167,1848-12-07T00:00:00,5.457408660000000,Central,20240502001,1
+"3957051817",pharmacy,pharmacy,Farmacia El Cobre,Privado,70301,Limón,Siquirres,Siquirres,7,703,Ley 11,1911-09-19T00:00:00,184.207950869999991,Huetar Caribe,20240502001,1
+"3957265930",pharmacy,pharmacy,Farmacia Chavarría,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"3957466928",clinic,clinic,La Casa del Pie,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"3958117881",dentist,dentist,Estetica Dental,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"3958186279",dentist,dentist,Centro Dental,Privado,40803,Heredia,Flores,Llorente,4,408,Decreto  52,1915-08-12T00:00:00,1.855541790000000,Central,20240502001,1
+"3958336344",dentist,dentist,Clínica Dental,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"3958336358",dentist,dentist,Clínica Odontologica,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"3958471326",pharmacy,pharmacy,Farmacia Firenze,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"3958710060",dentist,dentist,Clínica Dental,Privado,40803,Heredia,Flores,Llorente,4,408,Decreto  52,1915-08-12T00:00:00,1.855541790000000,Central,20240502001,1
+"3958749772",pharmacy,pharmacy,Santa Lucía,Privado,20106,Alajuela,Alajuela,San Isidro,2,201,Decreto  167,1848-12-07T00:00:00,34.690176860000001,Central,20240502001,1
+"3960312041",doctor,doctor,Ebais de Patarrá,CCSS,10307,San José,Desamparados,Patarrá,1,103,Acuerdo 267,1929-08-08T00:00:00,15.875707640000000,Central,20240502001,1
+"3960327857",clinic,clinic,Ebais Fátima,CCSS,10310,San José,Desamparados,Damas,1,103,Decreto 33,1968-10-08T00:00:00,2.646233560000000,Central,20240502001,1
+"3960402964",doctors,doctor,Dermatologia Dr. Eric Rojas Blanco,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3962206018",hospital,doctor,International Cooperation Ciences Institute ICIC,Privado,10107,San José,San José,Uruca,1,101,Decreto  167,1848-12-07T00:00:00,8.394567220000004,Central,20240502001,1
+"3962225200",dentist,dentist,Dentist and Medical Center,Privado,10107,San José,San José,Uruca,1,101,Decreto  167,1848-12-07T00:00:00,8.394567220000004,Central,20240502001,1
+"3968957609",dentist,dentist,Catedral Dental,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3971755257",dentist,dentist,Clínica Dental,Privado,40802,Heredia,Flores,Barrantes,4,408,Decreto  52,1915-08-12T00:00:00,2.143946860000000,Central,20240502001,1
+"3976386163",dentist,dentist,Clínica de Endodoncia,Privado,11503,San José,Montes de Oca,Mercedes,1,115,Ley 45,1915-08-02T00:00:00,1.425258930000000,Central,20240502001,1
+"3976400607",pharmacy,pharmacy,Farmacia Zapote,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"3976505114",clinic,clinic,Laboratorio Clinico,Privado,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"3976505082",pharmacy,pharmacy,Farmacia Zeledón #2,Privado,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"3976540858",doctors,doctor,Da Luz,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"3976648584",clinic,clinic,Clínica Balance,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"3976659552",dentist,dentist,Grupo Dental VGB,Privado,10106,San José,San José,San Francisco de Dos Ríos,1,101,Decreto  167,1848-12-07T00:00:00,2.642008390000000,Central,20240502001,1
+"3976942555",pharmacy,pharmacy,Fischel,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3977013769",pharmacy,pharmacy,Fischel,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"3977245276",pharmacy,pharmacy,Farmacia Oscar,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"3983042866",pharmacy,pharmacy,Farmacia Zeledón - Western Union,Privado,70403,Limón,Talamanca,Cahuita,7,704,Decreto  13,1970-02-19T00:00:00,234.065113679999996,Huetar Caribe,20240502001,1
+"3984849498",clinic,clinic,Clínica CEDCAS,Privado,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"3984875964",doctors,doctor,Dr. Estrada,Privado,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"4137485289",dentist,dentist,Clínica Dental Gutierrez Zarate,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"4193092392",clinic,clinic,Ebais Vargas Araya - Lourdes,CCSS,11501,San José,Montes de Oca,San Pedro,1,115,Ley 45,1915-08-02T00:00:00,4.741148040000000,Central,20240502001,1
+"4207621152",hospital,doctor,Coopesana CCSS Emergencias,CCSS,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"4207621158",doctor,doctor,EBAIS Especialidades médicas,CCSS,10901,San José,Santa Ana,Santa Ana,1,109,Ley 08,1907-08-29T00:00:00,5.436286770000000,Central,20240502001,1
+"4218558382",doctors,doctor,Consultorio Médico Municipal,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"4222027592",pharmacy,pharmacy,Farmacia Plaza Real,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"4311772241",clinic,clinic,Ebais La Guaria,CCSS,41001,Heredia,Sarapiquí,Puerto Viejo,4,410,Ley 4671,1970-11-18T00:00:00,428.517408419999981,Huetar Norte,20240502001,1
+"4347577074",dentist,dentist,Centro de Ortodoncia Alajuela,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"4462886513",pharmacy,pharmacy,Farmacia Monge,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"4465526600",pharmacy,pharmacy,Farmacia Curridabat,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"4472215221",clinic,clinic,Laboratorios Labín,Privado,10106,San José,San José,San Francisco de Dos Ríos,1,101,Decreto  167,1848-12-07T00:00:00,2.642008390000000,Central,20240502001,1
+"4472215837",pharmacy,pharmacy,Fischel,Privado,10106,San José,San José,San Francisco de Dos Ríos,1,101,Decreto  167,1848-12-07T00:00:00,2.642008390000000,Central,20240502001,1
+"4476151810",pharmacy,pharmacy,Farmacia Guatuso,Privado,21501,Alajuela,Guatuso,San Rafael,2,215,Decreto  29,1970-05-04T00:00:00,303.986128699999995,Huetar Norte,20240502001,1
+"4478311245",pharmacy,pharmacy,Farmacia El Cruce,Privado,10601,San José,Aserrí,Aserrí,1,106,Decreto  3,1882-11-27T00:00:00,15.259398819999999,Central,20240502001,1
+"4483044589",dentist,dentist,Clínica Dental,Privado,21002,Alajuela,San Carlos,Florencia,2,210,Ley 17,1911-09-26T00:00:00,199.657465839999986,Huetar Norte,20240502001,1
+"4483283106",pharmacy,pharmacy,Almakere,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"4483283107",clinic,clinic,Star Medical,Privado,11801,San José,Curridabat,Curridabat,1,118,Ley 209,1929-08-21T00:00:00,6.171431910000000,Central,20240502001,1
+"4490864296",clinic,clinic,Ebais Llano Azul,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"4491709926",pharmacy,pharmacy,Farmacia Fischel,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"4496042589",clinic,clinic,Ebais El Recreo,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"4501508589",clinic,clinic,Acuaterapia,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"4522518852",dentist,dentist,Rx Dental,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"4539002367",dentist,dentist,Clínica Dental Dr. Rodrigo Pérez,Privado,10110,San José,San José,Hatillo,1,101,Decreto  167,1848-12-07T00:00:00,4.368078910000002,Central,20240502001,1
+"4539048794",pharmacy,pharmacy,Farmacia Mendiola,Privado,11001,San José,Alajuelita,Alajuelita,1,110,Decreto 58,1909-06-04T00:00:00,1.274900360000000,Central,20240502001,1
+"4550105825",pharmacy,pharmacy,Sucre,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"4550105829",pharmacy,pharmacy,San Miguel,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"4580188593",clinic,clinic,Asembis,Privado,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"4587784275",clinic,clinic,Clínica Santa Fe,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"4587957342",clinic,clinic,Clínica Saint Joseph,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"4589588438",doctors,doctor,Centro Médico William Gómez Vargas,Privado,40902,Heredia,San Pablo,Rincón de Sabanilla,4,409,Decreto  34914-MG,2008-11-19T00:00:00,2.406666130000000,Central,20240502001,1
+"4713705095",clinic,clinic,Clínica de Oftalmología,Privado,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"4781654736",clinic,clinic,Ebais Iroquois,CCSS,70602,Limón,Guácimo,Mercedes,7,706,Decreto 1769-G,1971-06-26T00:00:00,90.056316379999998,Huetar Caribe,20240502001,1
+"4792508522",pharmacy,pharmacy,Fishel,Privado,10201,San José,Escazú,Escazú,1,102,Decreto  167,1848-12-07T00:00:00,4.533222670000000,Central,20240502001,1
+"4833520420",clinic,clinic,Ebais,CCSS,50701,Guanacaste,Abangares,Las Juntas,5,507,Ley 13,1915-06-04T00:00:00,228.711771429999999,Chorotega,20240502001,1
+"4837740884",pharmacy,pharmacy,Farmacia La Paulina,Privado,11503,San José,Montes de Oca,Mercedes,1,115,Ley 45,1915-08-02T00:00:00,1.425258930000000,Central,20240502001,1
+"4844882894",pharmacy,pharmacy,Farmacia G. Siquirres,Privado,70301,Limón,Siquirres,Siquirres,7,703,Ley 11,1911-09-19T00:00:00,184.207950869999991,Huetar Caribe,20240502001,1
+"4884116249",dentist,dentist,Clínica Dental,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"4888019950",dentist,dentist,Clínica Dental,Privado,10110,San José,San José,Hatillo,1,101,Decreto  167,1848-12-07T00:00:00,4.368078910000002,Central,20240502001,1
+"4888020726",clinic,clinic,Ebais León XIII,CCSS,11304,San José,Tibás,León XIII,1,113,Ley 7377,1994-03-14T00:00:00,0.722386560000000,Central,20240502001,1
+"4936351447",clinic,clinic,Ebais Los Ángeles,CCSS,21001,Alajuela,San Carlos,Quesada,2,210,Ley 17,1911-09-26T00:00:00,143.480184449999996,Huetar Norte,20240502001,1
+"4940804301",pharmacy,pharmacy,Farmacia Especial,Privado,10105,San José,San José,Zapote,1,101,Decreto  167,1848-12-07T00:00:00,2.863245360000000,Central,20240502001,1
+"4960239099",dentist,dentist,Clínica de Periodoncia,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"5079680928",clinic,clinic,Ebais,CCSS,20202,Alajuela,San Ramón,Santiago,2,202,Decreto  17,1856-08-21T00:00:00,61.060812040000002,Central,20240502001,1
+"5087066924",clinic,clinic,Ebais Katira 1,CCSS,21504,Alajuela,Guatuso,Katira,2,215,Decreto  34913-MG,2008-11-19T00:00:00,114.399408879999996,Huetar Norte,20240502001,1
+"5093604427",clinic,clinic,Ebais Santa Clara,CCSS,21002,Alajuela,San Carlos,Florencia,2,210,Ley 17,1911-09-26T00:00:00,199.657465839999986,Huetar Norte,20240502001,1
+"5116137453",clinic,clinic,Ebais,CCSS,20206,Alajuela,San Ramón,San Rafael,2,202,Decreto  17,1856-08-21T00:00:00,30.685713629999999,Central,20240502001,1
+"5123528422",clinic,clinic,Ebais San Miguel,CCSS,50603,Guanacaste,Cañas,San Miguel,5,506,Decreto  24809-G,1995-11-30T00:00:00,120.950140360000006,Chorotega,20240502001,1
+"5131154032",clinic,clinic,Ebais,CCSS,20214,Alajuela,San Ramón,San Lorenzo,2,202,Acuerdo  N° 026-2016-MGP,2016-08-30T00:00:00,304.744929800000023,Central,20240502001,1
+"5131171642",clinic,clinic,Ebais,CCSS,20214,Alajuela,San Ramón,San Lorenzo,2,202,Acuerdo  N° 026-2016-MGP,2016-08-30T00:00:00,304.744929800000023,Central,20240502001,1
+"5131349443",pharmacy,pharmacy,Farmacia Génesis Sarapiquí,Privado,41001,Heredia,Sarapiquí,Puerto Viejo,4,410,Ley 4671,1970-11-18T00:00:00,428.517408419999981,Huetar Norte,20240502001,1
+"5133744580",clinic,clinic,Ebais,CCSS,20213,Alajuela,San Ramón,Peñas Blancas,2,202,Decreto  91,1951-03-13T00:00:00,246.796939490000000,Huetar Norte,20240502001,1
+"5155652299",clinic,clinic,Ebais Margarita,CCSS,70402,Limón,Talamanca,Sixaola,7,704,Decreto  13,1970-02-19T00:00:00,169.012533439999999,Huetar Caribe,20240502001,1
+"5156289675",clinic,clinic,Ebais Carbón,CCSS,70403,Limón,Talamanca,Cahuita,7,704,Decreto  13,1970-02-19T00:00:00,234.065113679999996,Huetar Caribe,20240502001,1
+"5162577870",clinic,clinic,Ebais Corina Rodríguez,CCSS,11005,San José,Alajuelita,San Felipe,1,110,Decreto 58,1909-06-04T00:00:00,5.130987560000000,Central,20240502001,1
+"5173951625",clinic,clinic,Ebais Penshurt,CCSS,70102,Limón,Limón,Valle La Estrella,7,701,Decreto  21515-G,1992-08-10T00:00:00,1238.420263080000041,Huetar Caribe,20240502001,1
+"5174155198",clinic,clinic,Ebais Los Corales,CCSS,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"5174155199",clinic,clinic,Ebais Santa Eduviges,CCSS,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"5181075314",clinic,clinic,Ebais Pueblo Nuevo,CCSS,41002,Heredia,Sarapiquí,La Virgen,4,410,Ley 4671,1970-11-18T00:00:00,514.194888470000024,Huetar Norte,20240502001,1
+"5184463591",clinic,clinic,Ebais Colonia Cubujuquí,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"5184627388",clinic,clinic,Ebais El Mortero,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"5184886164",clinic,clinic,Ebais El Palmar,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"5187664646",clinic,clinic,Ebais,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"5190168203",clinic,clinic,Ebais Los Chiles,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5191729084",clinic,clinic,Ebais Las Delicias,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5191818068",clinic,clinic,Ebais Caño Castilla,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5191961632",clinic,clinic,Ebais Cristo Rey,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5192106560",clinic,clinic,Ebais Las Nubes,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5192159483",clinic,clinic,Ebais Coquital,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5192384936",clinic,clinic,Ebais Medio Queso,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5192445292",clinic,clinic,Ebais Santa Fe - El Cruce,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"5193060319",clinic,clinic,Ebais El Amparo,CCSS,21403,Alajuela,Los Chiles,El Amparo,2,214,Decreto  28,1970-05-04T00:00:00,312.886171680000018,Huetar Norte,20240502001,1
+"5199172122",clinic,clinic,Ebais Cóbano,CCSS,21403,Alajuela,Los Chiles,El Amparo,2,214,Decreto  28,1970-05-04T00:00:00,312.886171680000018,Huetar Norte,20240502001,1
+"5199194846",clinic,clinic,Ebais Pavón,CCSS,21403,Alajuela,Los Chiles,El Amparo,2,214,Decreto  28,1970-05-04T00:00:00,312.886171680000018,Huetar Norte,20240502001,1
+"5200718381",clinic,clinic,Ebais Buenavista,CCSS,21502,Alajuela,Guatuso,Buenavista,2,215,Decreto  29,1970-05-04T00:00:00,150.864617470000013,Huetar Norte,20240502001,1
+"5242991981",clinic,clinic,Ebais Tirrases,CCSS,11804,San José,Curridabat,Tirrases,1,118,Ley 209,1929-08-21T00:00:00,1.880338350000000,Central,20240502001,1
+"5246547421",doctors,doctor,Ebais San Rafael,CCSS,70207,Limón,Pococí,La Colonia,7,702,Decreto  N° 24-2012-MGP,2012-06-11T00:00:00,38.794834870000003,Huetar Caribe,20240502001,1
+"5247606778",clinic,clinic,Clínica CCSS La Reforma,CCSS,20108,Alajuela,Alajuela,San Rafael,2,201,Decreto  167,1848-12-07T00:00:00,19.332459929999999,Central,20240502001,1
+"5247887143",doctors,doctor,Ebais Venecia,CCSS,70503,Limón,Matina,Carrandí,7,705,Decreto  2078-G,1971-11-26T00:00:00,205.539011740000007,Huetar Caribe,20240502001,1
+"5248103215",doctors,doctor,Ebais B-Line,CCSS,70501,Limón,Matina,Matina,7,705,Ley 4344,1969-06-24T00:00:00,351.452994760000024,Huetar Caribe,20240502001,1
+"5249121934",doctors,doctor,Ebais 28 Millas,CCSS,70502,Limón,Matina,Batán,7,705,Ley 4344,1969-06-24T00:00:00,213.406097329999994,Huetar Caribe,20240502001,1
+"5249134005",doctors,doctor,Ebais Espavel Abajo,CCSS,70502,Limón,Matina,Batán,7,705,Ley 4344,1969-06-24T00:00:00,213.406097329999994,Huetar Caribe,20240502001,1
+"5260714266",doctors,doctor,Ebais Argentina,CCSS,70603,Limón,Guácimo,Pocora,7,706,Decreto 1769-G,1971-06-26T00:00:00,72.883220179999995,Huetar Caribe,20240502001,1
+"5260732815",doctors,doctor,Ebais Pocora,CCSS,70603,Limón,Guácimo,Pocora,7,706,Decreto 1769-G,1971-06-26T00:00:00,72.883220179999995,Huetar Caribe,20240502001,1
+"5273121093",doctors,doctor,Anexo - Clínica CCSS Alajuela Sur,CCSS,20108,Alajuela,Alajuela,San Rafael,2,201,Decreto  167,1848-12-07T00:00:00,19.332459929999999,Central,20240502001,1
+"5294923789",doctors,doctor,Ebais Santa Rita,CCSS,21602,Alajuela,Río Cuarto,Santa Rita,2,216,Acuerdo  N° 44-2018-MGP,2018-10-11T00:00:00,53.185136120000003,Huetar Norte,20240502001,1
+"5357362124",clinic,clinic,Ebais Miraflores,CCSS,40902,Heredia,San Pablo,Rincón de Sabanilla,4,409,Decreto  34914-MG,2008-11-19T00:00:00,2.406666130000000,Central,20240502001,1
+"5384640995",clinic,clinic,Ebais Bernardo Benavides - La Esperanza,CCSS,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"5605163570",clinic,clinic,Ebais Katira 2,CCSS,21502,Alajuela,Guatuso,Buenavista,2,215,Decreto  29,1970-05-04T00:00:00,150.864617470000013,Huetar Norte,20240502001,1
+"5605450469",clinic,clinic,Ebais Maquencal,CCSS,21501,Alajuela,Guatuso,San Rafael,2,215,Decreto  29,1970-05-04T00:00:00,303.986128699999995,Huetar Norte,20240502001,1
+"5609738378",clinic,clinic,Ebais Lagunilla - Las Flores,CCSS,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"5767079543",doctors,doctor,Ebais,CCSS,20601,Alajuela,Naranjo,Naranjo,2,206,Decreto  9,1886-03-09T00:00:00,14.976951520000000,Central,20240502001,1
+"5832939569",clinic,clinic,Ebais El Roble,CCSS,20104,Alajuela,Alajuela,San Antonio,2,201,Decreto  167,1848-12-07T00:00:00,8.763225220000002,Central,20240502001,1
+"5836362682",doctors,doctor,Ebais San Antonio,CCSS,20104,Alajuela,Alajuela,San Antonio,2,201,Decreto  167,1848-12-07T00:00:00,8.763225220000002,Central,20240502001,1
+"5844557896",clinic,clinic,Ebais Rincón de Zaragoza,CCSS,20702,Alajuela,Palmares,Zaragoza,2,207,Decreto  68,1888-07-30T00:00:00,8.430854119999999,Central,20240502001,1
+"5909069678",clinic,clinic,Ebais Rincón Herrera,CCSS,20105,Alajuela,Alajuela,Guácima,2,201,Decreto  167,1848-12-07T00:00:00,28.067697970000001,Central,20240502001,1
+"5935606265",doctors,doctor,Ebais Rincón de Ricardo,CCSS,40902,Heredia,San Pablo,Rincón de Sabanilla,4,409,Decreto  34914-MG,2008-11-19T00:00:00,2.406666130000000,Central,20240502001,1
+"5939943057",doctors,doctor,Ebais Chomes,CCSS,60103,Puntarenas,Puntarenas,Chomes,6,601,Decreto  167,1848-12-07T00:00:00,118.953392620000002,Pacífico Central,20240502001,1
+"5940946534",clinic,clinic,Ebais Aranjuez,CCSS,60102,Puntarenas,Puntarenas,Pitahaya,6,601,Decreto  167,1848-12-07T00:00:00,109.546245220000003,Pacífico Central,20240502001,1
+"5987601997",clinic,clinic,Ebais Cristóbal Colón,CCSS,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"6058870829",clinic,clinic,Ebais de Jericó,CCSS,10302,San José,Desamparados,San Miguel,1,103,Decreto  22,1862-11-04T00:00:00,,Central,20240502001,1
+"6110381240",clinic,clinic,Ebais Santiago,CCSS,20704,Alajuela,Palmares,Santiago,2,207,Decreto  12,1911-04-19T00:00:00,7.956541810000000,Central,20240502001,1
+"6116403208",clinic,clinic,Ebais Lagunillas,CCSS,61103,Puntarenas,Garabito,Lagunillas,6,611,Ley 10055,2021-09-21T00:00:00,81.003330550000001,Pacífico Central,20240502001,1
+"6122194269",clinic,clinic,Ebais Piedades - Brasil,CCSS,10905,San José,Santa Ana,Piedades,1,109,Ley 08,1907-08-29T00:00:00,12.069774020000001,Central,20240502001,1
+"6150700679",doctors,doctor,Ebais Carrillos Alto,CCSS,20804,Alajuela,Poás,Carrillos,2,208,Decreto 14,1901-10-15T00:00:00,10.130874090000001,Central,20240502001,1
+"6188987148",doctors,doctor,Ebais,CCSS,20904,Alajuela,Orotina,Coyolar,2,209,Ley 39,1908-08-01T00:00:00,36.476095070000000,Pacífico Central,20240502001,1
+"6193579724",pharmacy,pharmacy,Santa Lucía,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"6195420031",clinic,clinic,Ebais Bijagual,CCSS,11605,San José,Turrubares,Carara,1,116,Decreto  31345-G,2003-08-01T00:00:00,220.552374299999997,Central,20240502001,1
+"6201552008",clinic,clinic,Ebais Altamirita,CCSS,21004,Alajuela,San Carlos,Aguas Zarcas,2,210,Ley 17,1911-09-26T00:00:00,185.698305909999988,Huetar Norte,20240502001,1
+"6219235024",doctors,doctor,Ebais,CCSS,21008,Alajuela,San Carlos,La Tigra,2,210,Decreto  15,1952-02-05T00:00:00,56.211213809999997,Huetar Norte,20240502001,1
+"6223814092",clinic,clinic,Ebais San Josecito,CCSS,21011,Alajuela,San Carlos,Cutris,2,210,Decreto  2083-G,1971-11-26T00:00:00,849.100791729999969,Huetar Norte,20240502001,1
+"6292099137",doctors,doctor,Ebais,CCSS,20603,Alajuela,Naranjo,San José,2,206,Decreto  9,1886-03-09T00:00:00,20.895230940000001,Central,20240502001,1
+"6292114398",doctors,doctor,Ebais,CCSS,20603,Alajuela,Naranjo,San José,2,206,Decreto  9,1886-03-09T00:00:00,20.895230940000001,Central,20240502001,1
+"6417173631",doctors,doctor,Ebais San Juan,CCSS,60901,Puntarenas,Parrita,Parrita,6,609,Decreto  1898-G,1971-08-04T00:00:00,483.217995980000012,Pacífico Central,20240502001,1
+"6417180381",doctors,doctor,Ebais El Porvenir,CCSS,60901,Puntarenas,Parrita,Parrita,6,609,Decreto  1898-G,1971-08-04T00:00:00,483.217995980000012,Pacífico Central,20240502001,1
+"6417184157",doctors,doctor,Ebais San Rafael,CCSS,60901,Puntarenas,Parrita,Parrita,6,609,Decreto  1898-G,1971-08-04T00:00:00,483.217995980000012,Pacífico Central,20240502001,1
+"6417187865",doctors,doctor,Ebais Coyol 1 y 2,CCSS,20102,Alajuela,Alajuela,San José,2,201,Decreto  167,1848-12-07T00:00:00,14.872540130000001,Central,20240502001,1
+"6417188684",doctors,doctor,Ebais Dulce Nombre,CCSS,20113,Alajuela,Alajuela,Garita,2,201,Decreto 28,1922-11-06T00:00:00,33.904051959999997,Central,20240502001,1
+"6417187790",doctors,doctor,Ebais Pacto - Coyol,CCSS,20102,Alajuela,Alajuela,San José,2,201,Decreto  167,1848-12-07T00:00:00,14.872540130000001,Central,20240502001,1
+"6423468299",doctors,doctor,Ebais La Tabla,CCSS,21602,Alajuela,Río Cuarto,Santa Rita,2,216,Acuerdo  N° 44-2018-MGP,2018-10-11T00:00:00,53.185136120000003,Huetar Norte,20240502001,1
+"6423480227",doctors,doctor,Ebais San Vicente,CCSS,21603,Alajuela,Río Cuarto,Santa Isabel,2,216,Acuerdo  N° 44-2018-MGP,2018-10-11T00:00:00,104.085296520000000,Huetar Norte,20240502001,1
+"6591972540",doctors,doctor,Ebais Vista del Mar,CCSS,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"6591987507",doctors,doctor,Ebais Pueblo Nuevo,CCSS,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"6591994432",doctors,doctor,Ebais Limón Centro,CCSS,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"6616399454",clinic,clinic,Ebais Río Azul,CCSS,30308,Cartago,La Unión,Río Azul,3,303,Ley 4148,1968-07-15T00:00:00,4.853916650000000,Central,20240502001,1
+"6616424973",clinic,clinic,Ebais Linda Vista,CCSS,30308,Cartago,La Unión,Río Azul,3,303,Ley 4148,1968-07-15T00:00:00,4.853916650000000,Central,20240502001,1
+"6638637553",doctors,doctor,Ebais Higuito,CCSS,10302,San José,Desamparados,San Miguel,1,103,Decreto  22,1862-11-04T00:00:00,,Central,20240502001,1
+"6643775037",clinic,clinic,Ebais San Rafael Abajo,CCSS,10311,San José,Desamparados,San Rafael Abajo,1,103,Decreto  34,1968-10-11T00:00:00,2.020944880000000,Central,20240502001,1
+"6713629808",doctors,doctor,Ebais Rositer Carballo,CCSS,10107,San José,San José,Uruca,1,101,Decreto  167,1848-12-07T00:00:00,8.394567220000004,Central,20240502001,1
+"6714839678",clinic,clinic,Ebais San Antonio,CCSS,10202,San José,Escazú,San Antonio,1,102,Decreto  167,1848-12-07T00:00:00,16.958836739999999,Central,20240502001,1
+"6714893093",clinic,clinic,Ebais Guachipelín,CCSS,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"6714893213",clinic,clinic,Ebais Pozos - Lindora - La Chispa,CCSS,10903,San José,Santa Ana,Pozos,1,109,Ley 08,1907-08-29T00:00:00,13.349906550000000,Central,20240502001,1
+"6714895604",clinic,clinic,Ebais Anonos,CCSS,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"6714908115",clinic,clinic,Ebais Uruca,Privado,10904,San José,Santa Ana,Uruca,1,109,Ley 08,1907-08-29T00:00:00,7.030649870000000,Central,20240502001,1
+"6714963768",clinic,clinic,Ebais Llano Grande,CCSS,10705,San José,Mora,Picagres,1,107,Decreto  08,1883-05-25T00:00:00,27.155277450000000,Central,20240502001,1
+"6898648512",clinic,clinic,Ebais San Isidro,CCSS,21307,Alajuela,Upala,Yolillal,2,213,Decreto  12092-G,1980-11-26T00:00:00,139.622703690000009,Huetar Norte,20240502001,1
+"6898760015",clinic,clinic,Ebais México,CCSS,21305,Alajuela,Upala,Delicias,2,213,Decreto  28,1970-05-04T00:00:00,98.516673929999996,Huetar Norte,20240502001,1
+"6898795743",clinic,clinic,Ebais Delicias,CCSS,21305,Alajuela,Upala,Delicias,2,213,Decreto  28,1970-05-04T00:00:00,98.516673929999996,Huetar Norte,20240502001,1
+"761790774",clinic,clinic,EBAIS,CCSS,10106,San José,San José,San Francisco de Dos Ríos,1,101,Decreto  167,1848-12-07T00:00:00,2.642008390000000,Central,20240502001,1
+"7285706100",pharmacy,pharmacy,Farmacia Sucre,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"7307081248",doctors,doctor,Ebais El Parque,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"7307678101",clinic,clinic,Ebais Rincón de Salas,CCSS,20307,Alajuela,Grecia,Puente de Piedra,2,203,Acuerdo 609,1932-04-22T00:00:00,23.025102470000000,Central,20240502001,1
+"7722402780",doctors,doctor,Clínica San Francis,CCSS,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"8151924677",doctors,doctor,Dra. Nancy Larios Medina,CCSS,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"8151924680",pharmacy,pharmacy,Farmacia Fischel San Francisco,Privado,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"8253078065",doctors,doctor,Ebais Sixaola,CCSS,70402,Limón,Talamanca,Sixaola,7,704,Decreto  13,1970-02-19T00:00:00,169.012533439999999,Huetar Caribe,20240502001,1
+"8443486312",doctors,doctor,Dra. García Torres,CCSS,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"8458314626",clinic,clinic,Ebais Juanito Mora,CCSS,60108,Puntarenas,Puntarenas,Barranca,6,601,Ley 3549,1965-11-20T00:00:00,36.205768329999998,Pacífico Central,20240502001,1
+"8525842826",doctors,doctor,Ebais La Virgen,CCSS,21401,Alajuela,Los Chiles,Los Chiles,2,214,Decreto  28,1970-05-04T00:00:00,503.604888119999998,Huetar Norte,20240502001,1
+"8570287531",doctors,doctor,Ebais Sabanillas,CCSS,11205,San José,Acosta,Sabanillas,1,112,Ley 24,1910-10-27T00:00:00,177.358112690000013,Central,20240502001,1
+"8676950595",doctors,doctor,Ebais La Palma,CCSS,70402,Limón,Talamanca,Sixaola,7,704,Decreto  13,1970-02-19T00:00:00,169.012533439999999,Huetar Caribe,20240502001,1
+"8677629828",doctors,doctor,Ebais Mercedes,CCSS,70602,Limón,Guácimo,Mercedes,7,706,Decreto 1769-G,1971-06-26T00:00:00,90.056316379999998,Huetar Caribe,20240502001,1
+"8681255511",doctors,doctor,Ebias Buena Vista,CCSS,70102,Limón,Limón,Valle La Estrella,7,701,Decreto  21515-G,1992-08-10T00:00:00,1238.420263080000041,Huetar Caribe,20240502001,1
+"8685559905",doctors,doctor,Ebais Dondonia 2,CCSS,70104,Limón,Limón,Matama,7,701,Decreto  21515-G,1992-08-10T00:00:00,340.472330580000005,Huetar Caribe,20240502001,1
+"8685617011",doctors,doctor,Ebais Filadelfia,CCSS,70104,Limón,Limón,Matama,7,701,Decreto  21515-G,1992-08-10T00:00:00,340.472330580000005,Huetar Caribe,20240502001,1
+"8685627914",doctors,doctor,Ebais Santa Rita,CCSS,70103,Limón,Limón,Río Blanco,7,701,Decreto  21515-G,1992-08-10T00:00:00,131.307159630000001,Huetar Caribe,20240502001,1
+"8685681917",doctors,doctor,Ebais Río Quito,CCSS,70103,Limón,Limón,Río Blanco,7,701,Decreto  21515-G,1992-08-10T00:00:00,131.307159630000001,Huetar Caribe,20240502001,1
+"8685681963",doctors,doctor,Ebais Río Blanco,CCSS,70103,Limón,Limón,Río Blanco,7,701,Decreto  21515-G,1992-08-10T00:00:00,131.307159630000001,Huetar Caribe,20240502001,1
+"8699346402",doctors,doctor,Ebais Espavel Arriba,CCSS,70502,Limón,Matina,Batán,7,705,Ley 4344,1969-06-24T00:00:00,213.406097329999994,Huetar Caribe,20240502001,1
+"8702204470",doctors,doctor,Ebais La Colonia,CCSS,70501,Limón,Matina,Matina,7,705,Ley 4344,1969-06-24T00:00:00,351.452994760000024,Huetar Caribe,20240502001,1
+"8702778419",doctors,doctor,Ebais San Miguel,CCSS,70501,Limón,Matina,Matina,7,705,Ley 4344,1969-06-24T00:00:00,351.452994760000024,Huetar Caribe,20240502001,1
+"8702778422",doctors,doctor,Ebais Bartimore,CCSS,70501,Limón,Matina,Matina,7,705,Ley 4344,1969-06-24T00:00:00,351.452994760000024,Huetar Caribe,20240502001,1
+"8710489647",doctors,doctor,Ebais Dondonia 1,CCSS,70104,Limón,Limón,Matama,7,701,Decreto  21515-G,1992-08-10T00:00:00,340.472330580000005,Huetar Caribe,20240502001,1
+"8723190224",doctors,doctor,Ebais Pacuarito,CCSS,70302,Limón,Siquirres,Pacuarito,7,703,Ley 11,1911-09-19T00:00:00,220.023504930000001,Huetar Caribe,20240502001,1
+"8723185328",doctors,doctor,Ebais Cimarrones,CCSS,70302,Limón,Siquirres,Pacuarito,7,703,Ley 11,1911-09-19T00:00:00,220.023504930000001,Huetar Caribe,20240502001,1
+"8723244578",doctors,doctor,Ebais El Cairo,CCSS,70305,Limón,Siquirres,El Cairo,7,703,Ley 11,1911-09-19T00:00:00,106.961183550000001,Huetar Caribe,20240502001,1
+"8723258042",doctors,doctor,Ebais Louisiana,CCSS,70305,Limón,Siquirres,El Cairo,7,703,Ley 11,1911-09-19T00:00:00,106.961183550000001,Huetar Caribe,20240502001,1
+"8725465546",doctors,doctor,Ebais La Herediana,CCSS,70304,Limón,Siquirres,Germania,7,703,Ley 11,1911-09-19T00:00:00,33.964429359999997,Huetar Caribe,20240502001,1
+"8725791516",doctors,doctor,Ebais Milano,CCSS,70304,Limón,Siquirres,Germania,7,703,Ley 11,1911-09-19T00:00:00,33.964429359999997,Huetar Caribe,20240502001,1
+"8725861849",doctors,doctor,Ebais Florida,CCSS,70303,Limón,Siquirres,Florida,7,703,Ley 11,1911-09-19T00:00:00,81.929934700000004,Huetar Caribe,20240502001,1
+"8729178035",doctors,doctor,Ebais Portón de Iberia,CCSS,70306,Limón,Siquirres,Alegría,7,703,Decreto  24931-G,1996-01-17T00:00:00,38.047241139999997,Huetar Caribe,20240502001,1
+"8729503506",doctors,doctor,Ebais El Cocal,CCSS,70301,Limón,Siquirres,Siquirres,7,703,Ley 11,1911-09-19T00:00:00,184.207950869999991,Huetar Caribe,20240502001,1
+"8746937967",doctors,doctor,Ebais Jiménez,CCSS,70202,Limón,Pococí,Jiménez,7,702,Ley 12,1911-09-19T00:00:00,108.232630560000004,Huetar Caribe,20240502001,1
+"8761787544",doctors,doctor,Ebais La Unión,CCSS,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"8762654581",doctors,doctor,Ebais La Leona,CCSS,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"8766078017",clinic,clinic,Ebais Toro Amarillo 1 y 2,CCSS,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"8766088348",doctors,doctor,Ebais Central Sur,CCSS,70201,Limón,Pococí,Guápiles,7,702,Ley 12,1911-09-19T00:00:00,221.744974210000009,Huetar Caribe,20240502001,1
+"8818867755",clinic,clinic,Ebais Tujankir,CCSS,21504,Alajuela,Guatuso,Katira,2,215,Decreto  34913-MG,2008-11-19T00:00:00,114.399408879999996,Huetar Norte,20240502001,1
+"8818873837",doctors,doctor,Ebais Río Celeste,CCSS,21504,Alajuela,Guatuso,Katira,2,215,Decreto  34913-MG,2008-11-19T00:00:00,114.399408879999996,Huetar Norte,20240502001,1
+"8818883760",doctors,doctor,Ebais El Valle,CCSS,21504,Alajuela,Guatuso,Katira,2,215,Decreto  34913-MG,2008-11-19T00:00:00,114.399408879999996,Huetar Norte,20240502001,1
+"8843352777",doctors,doctor,Ebais San Lorenzo,CCSS,10310,San José,Desamparados,Damas,1,103,Decreto 33,1968-10-08T00:00:00,2.646233560000000,Central,20240502001,1
+"9099142132",doctors,doctor,Ebais San Juan,CCSS,50603,Guanacaste,Cañas,San Miguel,5,506,Decreto  24809-G,1995-11-30T00:00:00,120.950140360000006,Chorotega,20240502001,1
+"9107890051",doctors,doctor,Ebais Nueva Guatemala,CCSS,50602,Guanacaste,Cañas,Palmira,5,506,Decreto  24809-G,1995-11-30T00:00:00,204.030564179999999,Chorotega,20240502001,1
+"9108351525",doctors,doctor,Ebais Palmira,CCSS,50602,Guanacaste,Cañas,Palmira,5,506,Decreto  24809-G,1995-11-30T00:00:00,204.030564179999999,Chorotega,20240502001,1
+"9125296507",clinic,clinic,ASEMBIS,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"9130369291",clinic,clinic,Ebais Escobal,CCSS,40701,Heredia,Belén,San Antonio,4,407,Ley 15,1907-06-08T00:00:00,3.556303670000000,Central,20240502001,1
+"9130476173",clinic,clinic,Ebais Santa Cecilia,CCSS,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"9130656639",clinic,clinic,Ebais La Lilliana - Imas - UNA,CCSS,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"9137959676",clinic,clinic,Ebais San Cristóbal Norte,CCSS,10308,San José,Desamparados,San Cristobal,1,103,Decreto  30,1868-08-07T00:00:00,25.029130729999999,Central,20240502001,1
+"9146908566",clinic,clinic,Ebais Plazoleta 1 y 2,CCSS,10305,San José,Desamparados,San Antonio,1,103,Decreto  22,1862-11-04T00:00:00,2.066191140000000,Central,20240502001,1
+"9149596494",clinic,clinic,Ebais San Rafael Arriba,CCSS,10304,San José,Desamparados,San Rafael Arriba,1,103,Decreto  22,1862-11-04T00:00:00,3.228649900000000,Central,20240502001,1
+"9170641218",pharmacy,pharmacy,Farmacia Sucre,Privado,10103,San José,San José,Hospital,1,101,Decreto  167,1848-12-07T00:00:00,3.319966070000000,Central,20240502001,1
+"9183528453",clinic,clinic,Ebais La Luisa,CCSS,21201,Alajuela,Sarchí,Sarchí Norte,2,212,Decreto 766,1949-10-26T00:00:00,21.138807740000001,Central,20240502001,1
+"9183528476",clinic,clinic,Ebais Sabanilla,CCSS,21205,Alajuela,Sarchí,Rodríguez,2,212,Decreto  2101-G,1971-12-10T00:00:00,7.282614730000000,Central,20240502001,1
+"9201099488",clinic,clinic,Ebais La Esperanza,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"9201099487",clinic,clinic,Ebais Huetares,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"9201267170",clinic,clinic,Ebais Finca Chávez,CCSS,41003,Heredia,Sarapiquí,Las Horquetas,4,410,Decreto 2007-G,1971-10-06T00:00:00,564.591211309999949,Huetar Norte,20240502001,1
+"9238316512",clinic,clinic,Ebais San Gabriel,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9238907472",clinic,clinic,Ebais San Luis,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9238959280",clinic,clinic,Ebais Jazmines B,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9238959278",clinic,clinic,Ebais Jazmines A,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9238974933",clinic,clinic,Ebais Colonia Puntarenas,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9239014116",clinic,clinic,Ebais Santa Rosa,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9239158236",clinic,clinic,Ebais Santa Cecilia,CCSS,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"9241338854",clinic,clinic,Ebais Cuatro Cruces,CCSS,21308,Alajuela,Upala,Canalete,2,213,Acuerdo  N° 35-2012-MGP,2012-08-03T00:00:00,106.451631259999999,Huetar Norte,20240502001,1
+"9243882919",clinic,clinic,Ebais Zapote,CCSS,21304,Alajuela,Upala,Bijagua,2,213,Decreto  28,1970-05-04T00:00:00,186.804768419999988,Huetar Norte,20240502001,1
+"9243946871",clinic,clinic,Ebais Higuerón,CCSS,21304,Alajuela,Upala,Bijagua,2,213,Decreto  28,1970-05-04T00:00:00,186.804768419999988,Huetar Norte,20240502001,1
+"9243985334",clinic,clinic,Ebais Las Flores,CCSS,21304,Alajuela,Upala,Bijagua,2,213,Decreto  28,1970-05-04T00:00:00,186.804768419999988,Huetar Norte,20240502001,1
+"9244002906",clinic,clinic,Ebais Santo Domingo,CCSS,21304,Alajuela,Upala,Bijagua,2,213,Decreto  28,1970-05-04T00:00:00,186.804768419999988,Huetar Norte,20240502001,1
+"9261223834",clinic,clinic,Ebais Tobosi,CCSS,30803,Cartago,El Guarco,Tobosi,3,308,Ley 195,1939-07-26T00:00:00,20.058408750000002,Central,20240502001,1
+"9424279309",clinic,clinic,Ebais San Juanillo,CCSS,20603,Alajuela,Naranjo,San José,2,206,Decreto  9,1886-03-09T00:00:00,20.895230940000001,Central,20240502001,1
+"9518479087",hospital,hospital,Casa Medica del Pie y La Uña,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"1224521127",clinic,clinic,Ebais San Antonio,CCSS,10305,San José,Desamparados,San Antonio,1,103,Decreto  22,1862-11-04T00:00:00,2.066191140000000,Central,20240502001,1
+"9716278724",clinic,clinic,Ebais San José Este,CCSS,11501,San José,Montes de Oca,San Pedro,1,115,Ley 45,1915-08-02T00:00:00,4.741148040000000,Central,20240502001,1
+"9823224864",clinic,clinic,Ebais Buenavista,CCSS,21003,Alajuela,San Carlos,Buenavista,2,210,Ley 17,1911-09-26T00:00:00,25.971539159999999,Huetar Norte,20240502001,1
+"9823236492",clinic,clinic,Ebais Sucre,CCSS,21001,Alajuela,San Carlos,Quesada,2,210,Ley 17,1911-09-26T00:00:00,143.480184449999996,Huetar Norte,20240502001,1
+"9823241830",clinic,clinic,Ebais Concepción - La Abundancia,CCSS,21001,Alajuela,San Carlos,Quesada,2,210,Ley 17,1911-09-26T00:00:00,143.480184449999996,Huetar Norte,20240502001,1
+"9842130943",clinic,clinic,Ebais San Juan,CCSS,21002,Alajuela,San Carlos,Florencia,2,210,Ley 17,1911-09-26T00:00:00,199.657465839999986,Huetar Norte,20240502001,1
+"9844940453",clinic,clinic,Ebais San Francisco de La Palmera,CCSS,21009,Alajuela,San Carlos,La Palmera,2,210,Decreto  15,1952-02-05T00:00:00,100.360615069999994,Huetar Norte,20240502001,1
+"9844940477",clinic,clinic,Ebias La Palmera,CCSS,21009,Alajuela,San Carlos,La Palmera,2,210,Decreto  15,1952-02-05T00:00:00,100.360615069999994,Huetar Norte,20240502001,1
+"1234319016",doctors,doctor,Ebais de Lomas del Rio,CCSS,10109,San José,San José,Pavas,1,101,Decreto  167,1848-12-07T00:00:00,9.349160670000000,Central,20240502001,1
+"9853665238",clinic,clinic,Ebais Los Chiles,CCSS,21004,Alajuela,San Carlos,Aguas Zarcas,2,210,Ley 17,1911-09-26T00:00:00,185.698305909999988,Huetar Norte,20240502001,1
+"9858562251",clinic,clinic,Ebais Boca San Carlos,CCSS,21006,Alajuela,San Carlos,Pital,2,210,Decreto 36,1948-11-05T00:00:00,379.265412110000000,Huetar Norte,20240502001,1
+"9868990419",clinic,clinic,Ebais Los Santos,CCSS,21011,Alajuela,San Carlos,Cutris,2,210,Decreto  2083-G,1971-11-26T00:00:00,849.100791729999969,Huetar Norte,20240502001,1
+"9869038470",clinic,clinic,Ebais Moravia,CCSS,21011,Alajuela,San Carlos,Cutris,2,210,Decreto  2083-G,1971-11-26T00:00:00,849.100791729999969,Huetar Norte,20240502001,1
+"9871000249",clinic,clinic,Ebais San Cristóbal,CCSS,21013,Alajuela,San Carlos,Pocosol,2,210,Acuerdo  231,1983-11-03T00:00:00,660.485461999999984,Huetar Norte,20240502001,1
+"9871030556",clinic,clinic,Ebais Llano Verde,CCSS,21013,Alajuela,San Carlos,Pocosol,2,210,Acuerdo  231,1983-11-03T00:00:00,660.485461999999984,Huetar Norte,20240502001,1
+"9977224621",clinic,clinic,Ebais Buena Vista,CCSS,11904,San José,Pérez Zeledón,Rivas,1,119,Ley 31,1931-10-09T00:00:00,310.000064870000017,Brunca,20240502001,1
+"9977224629",clinic,clinic,Ebais La Piedra,CCSS,11904,San José,Pérez Zeledón,Rivas,1,119,Ley 31,1931-10-09T00:00:00,310.000064870000017,Brunca,20240502001,1
+"9982611094",dentist,dentist,Novodental,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"1255695223",doctors,doctor,Ebais de La Guaria,CCSS,10304,San José,Desamparados,San Rafael Arriba,1,103,Decreto  22,1862-11-04T00:00:00,3.228649900000000,Central,20240502001,1
+"1255807433",clinic,clinic,Ebais de Guatuso,CCSS,10307,San José,Desamparados,Patarrá,1,103,Acuerdo 267,1929-08-08T00:00:00,15.875707640000000,Central,20240502001,1
+"1257713780",pharmacy,pharmacy,Farmacia La Amistad,Privado,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"1257737965",pharmacy,pharmacy,Farmatodo Upala,Privado,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"1257749478",pharmacy,pharmacy,Farmacia Upala,Privado,21301,Alajuela,Upala,Upala,2,213,Decreto  28,1970-05-04T00:00:00,148.646535300000011,Huetar Norte,20240502001,1
+"1257754983",doctors,doctor,Ebais San Antonio,CCSS,21307,Alajuela,Upala,Yolillal,2,213,Decreto  12092-G,1980-11-26T00:00:00,139.622703690000009,Huetar Norte,20240502001,1
+"1263107049",clinic,clinic,Ebais Tacares,CCSS,20305,Alajuela,Grecia,Tacares,2,203,Decreto  20,1867-07-24T00:00:00,24.901016530000000,Central,20240502001,1
+"3828666763",pharmacy,pharmacy,Sucre,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"11273008453",dentist,dentist,Clínica Dental Dra. Carol Pakers A.,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3829132561",pharmacy,pharmacy,Farmacia Sucre,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"11273249159",pharmacy,pharmacy,Farmacia Americana,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3949018040",dentist,dentist,Clínica Dental,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"3949018040",dentist,dentist,Clínica Dental,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"1292270787",pharmacy,pharmacy,Farmacia Real,Privado,10108,San José,San José,Mata Redonda,1,101,Decreto  167,1848-12-07T00:00:00,3.655288630000000,Central,20240502001,1
+"1296529139",doctors,doctor,Ebais Cima,CCSS,11703,San José,Dota,Copey,1,117,Decreto  01,1926-01-06T00:00:00,277.575485780000008,Central,20240502001,1
+"11280439359",doctors,doctor,HiSkin Esthetic,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"7722328426",dentist,dentist,Tönnum Dental Family Center,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"11280476223",clinic,clinic,Blue Medical,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"9998699953",pharmacy,pharmacy,Farmacia Real Cariari,Privado,40104,Heredia,Heredia,Ulloa,4,401,Decreto  167,1848-12-07T00:00:00,11.378192459999999,Central,20240502001,1
+"11280502350",doctor,physiotherapist,Fisiocoach,Privado,40103,Heredia,Heredia,San Francisco,4,401,Decreto  167,1848-12-07T00:00:00,6.556982340000000,Central,20240502001,1
+"1342939243",doctors,doctor,Ebais El Cruce,CCSS,70306,Limón,Siquirres,Alegría,7,703,Decreto  24931-G,1996-01-17T00:00:00,38.047241139999997,Huetar Caribe,20240502001,1
+"1371384194",pharmacy,pharmacy,Farmacia La India,Privado,40101,Heredia,Heredia,Heredia,4,401,Decreto  167,1848-12-07T00:00:00,2.857894720000000,Central,20240502001,1
+"2341675026",dentist,dentist,Clínica Dental Gazel,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"5370778821",clinic,clinic,Ortopédica Garbanzo,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"11284915832",dentist,dentist,Clínica Dental Dr. Alvarado,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"1414257437",pharmacy,pharmacy,Farmacia Fischel,Privado,40702,Heredia,Belén,La Ribera,4,407,Ley 15,1907-06-08T00:00:00,4.257172730000000,Central,20240502001,1
+"1414257440",doctors,doctor,Clínica Dental Dr. Resenterra,Privado,40702,Heredia,Belén,La Ribera,4,407,Ley 15,1907-06-08T00:00:00,4.257172730000000,Central,20240502001,1
+"7297915655",dentist,dentist,SmartDental,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"7285706123",pharmacy,pharmacy,Macrobiotica La Buena Hierba,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"7283033502",pharmacy,pharmacy,Farmacia Isabel,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"7277547203",pharmacy,pharmacy,Farmacia Lafuente,Privado,10104,San José,San José,Catedral,1,101,Decreto  167,1848-12-07T00:00:00,2.366695530000000,Central,20240502001,1
+"11303315562",pharmacy,pharmacy,EcoFarma,CCSS,20501,Alajuela,Atenas,Atenas,2,205,Decreto  30,1868-08-07T00:00:00,9.761430910000000,Central,20240502001,1
+"6616424973",clinic,clinic,Ebais Linda Vista,CCSS,30308,Cartago,La Unión,Río Azul,3,303,Ley 4148,1968-07-15T00:00:00,4.853916650000000,Central,20240502001,1
+"6714654035",clinic,clinic,Laboratorio de Genética Humana Molecular,CCSS,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3836211558",pharmacy,pharmacy,Farmacia La Bomba,Privado,10102,San José,San José,Merced,1,101,Decreto  167,1848-12-07T00:00:00,2.204137630000000,Central,20240502001,1
+"3958749772",pharmacy,pharmacy,Farmacia Santa Lucía,Privado,20106,Alajuela,Alajuela,San Isidro,2,201,Decreto  167,1848-12-07T00:00:00,34.690176860000001,Central,20240502001,1
+"11384107160",clinic,clinic,Ebais Bajo La Legua,CCSS,10402,San José,Puriscal,Mercedes Sur,1,104,Decreto  30,1868-08-07T00:00:00,181.768915499999991,Central,20240502001,1
+"1430282488",pharmacy,pharmacy,Farmacia Santa Lucía,Privado,20101,Alajuela,Alajuela,Alajuela,2,201,Decreto  167,1848-12-07T00:00:00,10.610598820000000,Central,20240502001,1
+"1433880712",clinic,clinic,Ebais Santa Clara,Privado,21305,Alajuela,Upala,Delicias,2,213,Decreto  28,1970-05-04T00:00:00,98.516673929999996,Huetar Norte,20240502001,1
+"1437917661",dentist,dentist,Clínica Wo Ching,Privado,70301,Limón,Siquirres,Siquirres,7,703,Ley 11,1911-09-19T00:00:00,184.207950869999991,Huetar Caribe,20240502001,1
+"1440009362",pharmacy,pharmacy,Farmacia Fenix,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"1440009364",pharmacy,pharmacy,Farmacia Tibas,Privado,11301,San José,Tibás,San Juan,1,113,Ley 42,1914-07-27T00:00:00,3.513898690000000,Central,20240502001,1
+"1444078854",doctors,doctor,Terapia Física Dr. Diego López,Privado,10601,San José,Aserrí,Aserrí,1,106,Decreto  3,1882-11-27T00:00:00,15.259398819999999,Central,20240502001,1
+"1459466041",pharmacy,pharmacy,Farmacia Zeledon,Privado,70101,Limón,Limón,Limón,7,701,Decreto 61,1892-07-25T00:00:00,59.178694409999999,Huetar Caribe,20240502001,1
+"1462039372",doctors,doctor,Clínica Dental Dentavac,Privado,10203,San José,Escazú,San Rafael,1,102,Decreto  167,1848-12-07T00:00:00,13.042739100000000,Central,20240502001,1
+"1562455251",clinic,clinic,Ebais del Llano,Privado,10302,San José,Desamparados,San Miguel,1,103,Decreto  22,1862-11-04T00:00:00,,Central,20240502001,1
+"5605629267",clinic,clinic,Ebais Jomusa,CCSS,21303,Alajuela,Upala,San José O Pizote,2,213,Decreto  28,1970-05-04T00:00:00,285.427545099999975,Huetar Norte,20240502001,1
+"6001639566",doctors,doctor,Ebais San José,CCSS,21303,Alajuela,Upala,San José O Pizote,2,213,Decreto  28,1970-05-04T00:00:00,285.427545099999975,Huetar Norte,20240502001,1
+"9110969724",doctors,doctor,Ebais Libertad,CCSS,50601,Guanacaste,Cañas,Cañas,5,506,Decreto 22,1878-07-12T00:00:00,193.093400470000006,Chorotega,20240502001,1
+"9236038020",clinic,clinic,Ebais La Victoria,CCSS,21305,Alajuela,Upala,Delicias,2,213,Decreto  28,1970-05-04T00:00:00,98.516673929999996,Huetar Norte,20240502001,1
+"9242106573",clinic,clinic,Ebais San Cristóbal,CCSS,21308,Alajuela,Upala,Canalete,2,213,Acuerdo  N° 35-2012-MGP,2012-08-03T00:00:00,106.451631259999999,Huetar Norte,20240502001,1
+"9242106237",clinic,clinic,Ebais Armenias,CCSS,21308,Alajuela,Upala,Canalete,2,213,Acuerdo  N° 35-2012-MGP,2012-08-03T00:00:00,106.451631259999999,Huetar Norte,20240502001,1
+"6557965487",clinic,clinic,Ebais Cuatro Bocas,CCSS,21302,Alajuela,Upala,Aguas Claras,2,213,Decreto  28,1970-05-04T00:00:00,408.536218190000000,Huetar Norte,20240502001,1
+"6558463768",doctors,doctor,Ebais Aguas Claras,CCSS,21302,Alajuela,Upala,Aguas Claras,2,213,Decreto  28,1970-05-04T00:00:00,408.536218190000000,Huetar Norte,20240502001,1
+"3934385681",pharmacy,pharmacy,Farmacia Zavaqui,Privado,50401,Guanacaste,Bagaces,Bagaces,5,504,Decreto  167,1848-12-07T00:00:00,889.071414770000047,Chorotega,20240502001,1
+"4736410356",clinic,clinic,Ebais San Rafael,CCSS,51002,Guanacaste,La Cruz,Santa Cecilia,5,510,Ley 4354,1969-07-23T00:00:00,258.008691779999992,Chorotega,20240502001,1
+"6831657124",clinic,clinic,Ebais El Porvenir,CCSS,21302,Alajuela,Upala,Aguas Claras,2,213,Decreto  28,1970-05-04T00:00:00,408.536218190000000,Huetar Norte,20240502001,1
+"9228576935",clinic,clinic,Ebais Birmania,CCSS,21306,Alajuela,Upala,Dos Ríos,2,213,Decreto  28,1970-05-04T00:00:00,218.668033129999998,Huetar Norte,20240502001,1
+"9228602635",clinic,clinic,Ebais El Progreso,CCSS,21303,Alajuela,Upala,San José O Pizote,2,213,Decreto  28,1970-05-04T00:00:00,285.427545099999975,Huetar Norte,20240502001,1
+"9230587026",clinic,clinic,Ebais Villa Nueva,CCSS,21303,Alajuela,Upala,San José O Pizote,2,213,Decreto  28,1970-05-04T00:00:00,285.427545099999975,Huetar Norte,20240502001,1
+"2267547132",pharmacy,pharmacy,Farmacia Chavarría Liberia,Privado,50101,Guanacaste,Liberia,Liberia,5,501,Decreto  167,1848-12-07T00:00:00,563.019480130000034,Chorotega,20240502001,1
+"3841751130",clinic,clinic,Ciudad Blanca,Privado,50101,Guanacaste,Liberia,Liberia,5,501,Decreto  167,1848-12-07T00:00:00,563.019480130000034,Chorotega,20240502001,1
+"3940265863",pharmacy,pharmacy,Farmacia Elimar de Liberia,Privado,50101,Guanacaste,Liberia,Liberia,5,501,Decreto  167,1848-12-07T00:00:00,563.019480130000034,Chorotega,20240502001,1
+"4734550111",clinic,clinic,Ebais Piedras Azules,CCSS,51002,Guanacaste,La Cruz,Santa Cecilia,5,510,Ley 4354,1969-07-23T00:00:00,258.008691779999992,Chorotega,20240502001,1
+"4736496838",clinic,clinic,Ebais La Virgen,CCSS,51002,Guanacaste,La Cruz,Santa Cecilia,5,510,Ley 4354,1969-07-23T00:00:00,258.008691779999992,Chorotega,20240502001,1
+"6831599340",doctors,doctor,Ebais Brasilia,CCSS,21306,Alajuela,Upala,Dos Ríos,2,213,Decreto  28,1970-05-04T00:00:00,218.668033129999998,Huetar Norte,20240502001,1
+"7307702177",pharmacy,pharmacy,FARMACIA 25 DE JULIO,Privado,50101,Guanacaste,Liberia,Liberia,5,501,Decreto  167,1848-12-07T00:00:00,563.019480130000034,Chorotega,20240502001,1
+"4589479177",clinic,clinic,Ebais Guadalupe,CCSS,50105,Guanacaste,Liberia,Curubandé,5,501,Decreto  2077-G,1971-11-26T00:00:00,81.322059019999998,Chorotega,20240502001,1
+"4738755426",clinic,clinic,Ebais La Garita,CCSS,51003,Guanacaste,La Cruz,La Garita,5,510,Ley 4354,1969-07-23T00:00:00,273.388187720000019,Chorotega,20240502001,1
+"4751201936",clinic,clinic,Ebais Los Andes,CCSS,51003,Guanacaste,La Cruz,La Garita,5,510,Ley 4354,1969-07-23T00:00:00,273.388187720000019,Chorotega,20240502001,1
+"5226972481",clinic,clinic,Ebais Buena Vista,CCSS,50102,Guanacaste,Liberia,Cañas Dulces,5,501,Decreto  167,1848-12-07T00:00:00,243.405944000000005,Chorotega,20240502001,1
+"5227079612",clinic,clinic,Ebais Cañas Dulces,CCSS,50102,Guanacaste,Liberia,Cañas Dulces,5,501,Decreto  167,1848-12-07T00:00:00,243.405944000000005,Chorotega,20240502001,1
+"6417239467",doctors,doctor,Ebais Rodeito,CCSS,50101,Guanacaste,Liberia,Liberia,5,501,Decreto  167,1848-12-07T00:00:00,563.019480130000034,Chorotega,20240502001,1
+"6417257487",doctors,doctor,Ebias Tempatal,CCSS,51001,Guanacaste,La Cruz,La Cruz,5,510,Ley 4354,1969-07-23T00:00:00,344.406896300000028,Chorotega,20240502001,1
+"6417257987",doctors,doctor,Ebais Las Brisas,CCSS,51001,Guanacaste,La Cruz,La Cruz,5,510,Ley 4354,1969-07-23T00:00:00,344.406896300000028,Chorotega,20240502001,1
+"3782868335",pharmacy,pharmacy,Farmacia Ibarra,Privado,60501,Puntarenas,Osa,Puerto Cortés,6,605,Ley 185,1940-07-29T00:00:00,234.386274200000003,Brunca,20240502001,1
+"3841397201",dentist,dentist,Mora & Valdez Advanced Dentistry,Privado,60504,Puntarenas,Osa,Bahía Ballena,6,605,Decreto  20588-G,1991-07-23T00:00:00,158.332078560000014,Brunca,20240502001,1
+"3940734407",dentist,dentist,Clínica De Ortodoncia,Privado,11901,San José,Pérez Zeledón,San Isidro de El General,1,119,Ley 31,1931-10-09T00:00:00,191.818889850000005,Brunca,20240502001,1
+"3949122335",dentist,dentist,Clínica Dental,Privado,11901,San José,Pérez Zeledón,San Isidro de El General,1,119,Ley 31,1931-10-09T00:00:00,191.818889850000005,Brunca,20240502001,1
+"3955731788",doctors,doctor,Pediatra Medicina General,Privado,11901,San José,Pérez Zeledón,San Isidro de El General,1,119,Ley 31,1931-10-09T00:00:00,191.818889850000005,Brunca,20240502001,1
+"3957397769",dentist,dentist,Clínica Dental Dr. Ricardo Poza V.,Privado,11901,San José,Pérez Zeledón,San Isidro de El General,1,119,Ley 31,1931-10-09T00:00:00,191.818889850000005,Brunca,20240502001,1
+"3957460782",dentist,dentist,Clínica Dental Dra. Raquel Navarro,Privado,11901,San José,Pérez Zeledón,San Isidro de El General,1,119,Ley 31,1931-10-09T00:00:00,191.818889850000005,Brunca,20240502001,1
+"3969479929",pharmacy,pharmacy,Farmacias Camacho,Privado,11903,San José,Pérez Zeledón,Daniel Flores,1,119,Ley 31,1931-10-09T00:00:00,64.057436559999999,Brunca,20240502001,1
+"3987106208",pharmacy,pharmacy,Farmacia La Económica,Privado,60601,Puntarenas,Quepos,Quepos,6,606,Decreto 235,1948-10-30T00:00:00,236.049304360000008,Pacífico Central,20240502001,1
+"3987106235",pharmacy,pharmacy,La Farmacia Economica,Privado,60601,Puntarenas,Quepos,Quepos,6,606,Decreto 235,1948-10-30T00:00:00,236.049304360000008,Pacífico Central,20240502001,1
+"3988485722",pharmacy,pharmacy,Farmacia Betsaida,Privado,11901,San José,Pérez Zeledón,San Isidro de El General,1,119,Ley 31,1931-10-09T00:00:00,191.818889850000005,Brunca,20240502001,1
+"4446093591",clinic,clinic,Ebais Potrero Grande,CCSS,60303,Puntarenas,Buenos Aires,Potrero Grande,6,603,Ley 185,1940-07-29T00:00:00,626.698098279999954,Brunca,20240502001,1
+"5190248977",clinic,clinic,Ebais Matapalo,CCSS,60602,Puntarenas,Quepos,Savegre,6,606,Decreto 235,1948-10-30T00:00:00,216.470579429999987,Pacífico Central,20240502001,1
+"5209487744",clinic,clinic,Ebais,CCSS,60601,Puntarenas,Quepos,Quepos,6,606,Decreto 235,1948-10-30T00:00:00,236.049304360000008,Pacífico Central,20240502001,1
+"5213640094",doctors,doctor,Ebais,CCSS,60602,Puntarenas,Quepos,Savegre,6,606,Decreto 235,1948-10-30T00:00:00,216.470579429999987,Pacífico Central,20240502001,1
+"5217522432",doctors,doctor,Ebais,CCSS,60503,Puntarenas,Osa,Sierpe,6,605,Ley 185,1940-07-29T00:00:00,634.184220589999995,Brunca,20240502001,1
+"5219075938",clinic,clinic,Ebais,CCSS,60501,Puntarenas,Osa,Puerto Cortés,6,605,Ley 185,1940-07-29T00:00:00,234.386274200000003,Brunca,20240502001,1
+"5222451176",clinic,clinic,Clínica CCSS San Francisco de Río Tinoco,CCSS,60502,Puntarenas,Osa,Palmar,6,605,Ley 185,1940-07-29T00:00:00,250.802890429999991,Brunca,20240502001,1
+"5224002090",clinic,clinic,Ebais Piedras Blancas,CCSS,60505,Puntarenas,Osa,Piedras Blancas,6,605,Decreto  24819-G,1995-11-27T00:00:00,262.582987409999987,Brunca,20240502001,1
+"5224042479",clinic,doctor,Ebais,CCSS,60505,Puntarenas,Osa,Piedras Blancas,6,605,Decreto  24819-G,1995-11-27T00:00:00,262.582987409999987,Brunca,20240502001,1
+"5370575586",clinic,clinic,Ebais Chánguena,CCSS,60307,Puntarenas,Buenos Aires,Chánguena,6,603,Acuerdo 28,1988-01-28T00:00:00,273.041905649999990,Brunca,20240502001,1
+"5784749051",doctors,doctor,Ebais,CCSS,60804,Puntarenas,Coto Brus,Limoncito,6,608,Ley 3598,1965-12-10T00:00:00,123.644447630000002,Brunca,20240502001,1
+"6816338827",clinic,clinic,Ebais Ojo de Agua,CCSS,60501,Puntarenas,Osa,Puerto Cortés,6,605,Ley 185,1940-07-29T00:00:00,234.386274200000003,Brunca,20240502001,1
+"7243301028",doctors,doctor,Ebais San Miguel,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"8430314813",clinic,clinic,Ebais Térraba,CCSS,60303,Puntarenas,Buenos Aires,Potrero Grande,6,603,Ley 185,1940-07-29T00:00:00,626.698098279999954,Brunca,20240502001,1
+"8674405181",clinic,clinic,Ebais Boruca,CCSS,60304,Puntarenas,Buenos Aires,Boruca,6,603,Ley 185,1940-07-29T00:00:00,125.787638459999997,Brunca,20240502001,1
+"8674445098",clinic,clinic,Ebais Santa Marta,CCSS,60309,Puntarenas,Buenos Aires,Brunka,6,603,Acuerdo 719-MSP,2000-08-18T00:00:00,163.767124109999997,Brunca,20240502001,1
+"8780136617",clinic,clinic,Ebais San Pedro,CCSS,11905,San José,Pérez Zeledón,San Pedro,1,119,Decreto  113,1951-07-13T00:00:00,206.124353630000002,Brunca,20240502001,1
+"8780136718",clinic,clinic,Ebais Santa Cecilia,CCSS,11905,San José,Pérez Zeledón,San Pedro,1,119,Decreto  113,1951-07-13T00:00:00,206.124353630000002,Brunca,20240502001,1
+"9421470188",doctors,doctor,Bahia Ballena Doctors,Privado,60504,Puntarenas,Osa,Bahía Ballena,6,605,Decreto  20588-G,1991-07-23T00:00:00,158.332078560000014,Brunca,20240502001,1
+"9423978452",pharmacy,pharmacy,Farmacia Plaza Ventanas,Privado,60504,Puntarenas,Osa,Bahía Ballena,6,605,Decreto  20588-G,1991-07-23T00:00:00,158.332078560000014,Brunca,20240502001,1
+"9423978453",dentist,dentist,MS Dental,Privado,60504,Puntarenas,Osa,Bahía Ballena,6,605,Decreto  20588-G,1991-07-23T00:00:00,158.332078560000014,Brunca,20240502001,1
+"9784121864",clinic,clinic,Ebais Convento,CCSS,60302,Puntarenas,Buenos Aires,Volcán,6,603,Ley 185,1940-07-29T00:00:00,187.407336479999998,Brunca,20240502001,1
+"9786502272",clinic,clinic,Ebais Peje,CCSS,60302,Puntarenas,Buenos Aires,Volcán,6,603,Ley 185,1940-07-29T00:00:00,187.407336479999998,Brunca,20240502001,1
+"9791168974",clinic,clinic,Ebais Curré,CCSS,60304,Puntarenas,Buenos Aires,Boruca,6,603,Ley 185,1940-07-29T00:00:00,125.787638459999997,Brunca,20240502001,1
+"9791168975",clinic,clinic,Ebais Cajón,CCSS,60304,Puntarenas,Buenos Aires,Boruca,6,603,Ley 185,1940-07-29T00:00:00,125.787638459999997,Brunca,20240502001,1
+"9792750889",clinic,clinic,Ebais San Luis,CCSS,60307,Puntarenas,Buenos Aires,Chánguena,6,603,Acuerdo 28,1988-01-28T00:00:00,273.041905649999990,Brunca,20240502001,1
+"9793659774",clinic,clinic,Ebais Bajo Coto,CCSS,60308,Puntarenas,Buenos Aires,Biolley,6,603,Decreto  24470-G,1995-11-07T00:00:00,208.270131990000010,Brunca,20240502001,1
+"9802189341",clinic,clinic,Ebais Guácimo,CCSS,60303,Puntarenas,Buenos Aires,Potrero Grande,6,603,Ley 185,1940-07-29T00:00:00,626.698098279999954,Brunca,20240502001,1
+"9802189342",clinic,clinic,Ebais San Antonio,CCSS,60303,Puntarenas,Buenos Aires,Potrero Grande,6,603,Ley 185,1940-07-29T00:00:00,626.698098279999954,Brunca,20240502001,1
+"9964591566",clinic,clinic,Ebais Concepción de Daniel Flores,CCSS,11906,San José,Pérez Zeledón,Platanares,1,119,Decreto  2,1966-05-13T00:00:00,80.916044769999999,Brunca,20240502001,1
+"9977349909",clinic,clinic,Ebais La Esperanza,CCSS,11905,San José,Pérez Zeledón,San Pedro,1,119,Decreto  113,1951-07-13T00:00:00,206.124353630000002,Brunca,20240502001,1
+"9977376666",clinic,clinic,Ebais La Guaria,CCSS,11905,San José,Pérez Zeledón,San Pedro,1,119,Decreto  113,1951-07-13T00:00:00,206.124353630000002,Brunca,20240502001,1
+"9977404408",clinic,clinic,Ebais Cristo Rey,CCSS,11905,San José,Pérez Zeledón,San Pedro,1,119,Decreto  113,1951-07-13T00:00:00,206.124353630000002,Brunca,20240502001,1
+"9978197806",clinic,clinic,Ebais Cristo Rey,CCSS,11906,San José,Pérez Zeledón,Platanares,1,119,Decreto  2,1966-05-13T00:00:00,80.916044769999999,Brunca,20240502001,1
+"9990972553",clinic,clinic,Ebais San Francisco,CCSS,11908,San José,Pérez Zeledón,Cajón,1,119,Decreto  14,1970-03-03T00:00:00,118.629051869999998,Brunca,20240502001,1
+"9990983046",clinic,clinic,Ebais Santa María,CCSS,11908,San José,Pérez Zeledón,Cajón,1,119,Decreto  14,1970-03-03T00:00:00,118.629051869999998,Brunca,20240502001,1
+"9990983031",clinic,clinic,Ebais Santa Marta,CCSS,11908,San José,Pérez Zeledón,Cajón,1,119,Decreto  14,1970-03-03T00:00:00,118.629051869999998,Brunca,20240502001,1
+"10019207395",clinic,clinic,Ebais San Ramón Norte,CCSS,11911,San José,Pérez Zeledón,Páramo,1,119,Acuerdo  129,1984-01-18T00:00:00,203.332367750000003,Brunca,20240502001,1
+"10019223060",clinic,clinic,Ebais Valencia,CCSS,11911,San José,Pérez Zeledón,Páramo,1,119,Acuerdo  129,1984-01-18T00:00:00,203.332367750000003,Brunca,20240502001,1
+"10021520244",clinic,clinic,Ebais Santa Lucía,CCSS,11912,San José,Pérez Zeledón,La  Amistad,1,119,Acuerdo  N° 67-2014-MGP,2014-12-05T00:00:00,76.292644510000002,Brunca,20240502001,1
+"10021522020",clinic,clinic,Ebais San Carlos,CCSS,11912,San José,Pérez Zeledón,La  Amistad,1,119,Acuerdo  N° 67-2014-MGP,2014-12-05T00:00:00,76.292644510000002,Brunca,20240502001,1
+"1398299388",pharmacy,pharmacy,Farmacia Camacho,Privado,11903,San José,Pérez Zeledón,Daniel Flores,1,119,Ley 31,1931-10-09T00:00:00,64.057436559999999,Brunca,20240502001,1
+"1408598990",doctors,doctor,Servicios Medicos Bahia Ballena,Privado,60504,Puntarenas,Osa,Bahía Ballena,6,605,Decreto  20588-G,1991-07-23T00:00:00,158.332078560000014,Brunca,20240502001,1
+"4446093591",clinic,clinic,Ebais Potrero Grande,CCSS,60303,Puntarenas,Buenos Aires,Potrero Grande,6,603,Ley 185,1940-07-29T00:00:00,626.698098279999954,Brunca,20240502001,1
+"5209487744",clinic,clinic,Ebais Llorona,CCSS,60601,Puntarenas,Quepos,Quepos,6,606,Decreto 235,1948-10-30T00:00:00,236.049304360000008,Pacífico Central,20240502001,1
+"1437013786",dentist,dentist,Clínica Dental,Privado,60801,Puntarenas,Coto Brus,San Vito,6,608,Ley 3598,1965-12-10T00:00:00,74.592669920000006,Brunca,20240502001,1
+"7242585068",doctors,doctor,Ebais Villa Briceño,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"7243322664",doctors,doctor,Ebias Unión,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"7243393829",doctors,doctor,Ebais Vaquillas,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"7243393852",doctors,doctor,Ebais Las Delicias,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"7243418018",doctors,doctor,Ebais Caracol Norte,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"7243508406",doctors,doctor,Ebais Coto 54,CCSS,60703,Puntarenas,Golfito,Guaycará,6,607,Decreto  2074-G,1971-11-26T00:00:00,323.097717509999995,Brunca,20240502001,1
+"7243533249",doctors,doctor,Ebais Las Fincas,CCSS,61001,Puntarenas,Corredores,Corredor,6,610,Ley 5373,1973-10-19T00:00:00,275.668922950000024,Brunca,20240502001,1
+"7247514626",doctors,doctor,Ebais Bajo Los Indios,CCSS,61001,Puntarenas,Corredores,Corredor,6,610,Ley 5373,1973-10-19T00:00:00,275.668922950000024,Brunca,20240502001,1
+"7247803569",doctors,doctor,Ebais San Antonio,CCSS,61003,Puntarenas,Corredores,Canoas,6,610,Ley 5373,1973-10-19T00:00:00,122.017667739999993,Brunca,20240502001,1
